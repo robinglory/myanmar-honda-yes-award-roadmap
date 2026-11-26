@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robinglory.github.io/myanmar-honda-yes-award-roadmap/sitemap.xml
